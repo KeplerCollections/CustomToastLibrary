@@ -1,0 +1,2 @@
+include ':app', ':customtoastlibrary'
+rootProject.name='Toaster-Library'

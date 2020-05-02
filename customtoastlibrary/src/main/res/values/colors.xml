@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_pressed">#1A50B24A</color>
+    <color name="default_pressed_">#3350B24A</color>
+    <color name="colorRed">#C83827</color>
+    <color name="colorRedBg">#1AC83827</color>
+    <color name="colorGreen">#9FC039</color>
+    <color name="colorGreenBg">#1A9FC039</color>
+    <color name="colorYellow">#F39E2D</color>
+    <color name="colorYellowBg">#1AF39E2D</color>
+    <color name="colorChocorol">#272727</color>
+    <color name="colorChocorolBg">#1A272727</color>
+
+    <color name="lightTextColor">@android:color/white</color>
+</resources>

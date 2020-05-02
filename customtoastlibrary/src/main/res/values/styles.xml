@@ -1,0 +1,10 @@
+<resources>
+
+
+    <style name="TextStyleLight_Small">
+        <item name="android:textColor">@color/lightTextColor</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+
+
+</resources>
