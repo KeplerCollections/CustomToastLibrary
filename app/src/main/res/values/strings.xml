@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Toaster-Library</string>
+    <string name="simple_toast">I am simple toast</string>
+    <string name="warning_toast">I am warning toast</string>
+    <string name="error_toast">I am error toast</string>
+    <string name="success_toast">I am success toast</string>
 </resources>
