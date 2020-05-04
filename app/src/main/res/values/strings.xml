@@ -4,4 +4,6 @@
     <string name="warning_toast">I am warning toast</string>
     <string name="error_toast">I am error toast</string>
     <string name="success_toast">I am success toast</string>
+    <string name="info_taost">I am info taost</string>
+
 </resources>

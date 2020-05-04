@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.keplercollections.customtoast.MainActivity">
 
     <Button
         android:id="@+id/simple_toast"
@@ -36,4 +36,10 @@
         android:onClick="toast"
         android:text="success Toast"/>
 
+    <Button
+        android:id="@+id/info_toast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="toast"
+        android:text="info Toast"/>
 </LinearLayout>

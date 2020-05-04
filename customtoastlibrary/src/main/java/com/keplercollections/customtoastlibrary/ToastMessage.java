@@ -1,8 +1,6 @@
 package com.keplercollections.customtoastlibrary;
 
 import android.content.Context;
-import android.graphics.Color;
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
@@ -41,5 +39,9 @@ public class ToastMessage {
 
     public static Toast makeSimpleToast(@NonNull Context context, @NonNull CharSequence text) {
         return makeText(context,R.drawable.rect_with_corner_fill_trans_stroke_black,R.color.colorChocorol,text);
+    }
+
+    public static Toast makeInfoToast(@NonNull Context context, @NonNull CharSequence text) {
+        return makeText(context,R.drawable.rect_with_corner_fill_trans_stroke_blue,R.color.colorBlue,text);
     }
 }
