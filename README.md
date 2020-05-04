@@ -19,7 +19,7 @@ Change the app Level build file (Add Dependency)
 
 ```bash
 dependencies {
-	        implementation 'com.github.KeplerCollections:CustomToastLibrary:20.5.3'
+	        implementation 'com.github.carlsberg-stack:CustomToastLibrary:20.5.3'
 	}
 ```
 ## Contributing
